@@ -1,0 +1,6 @@
+{
+  "name": "CyberGuard AI",
+  "description": "AI-powered Personal Cybersecurity Assistant for threat analysis, code security, incident response, and learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
